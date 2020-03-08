@@ -1,0 +1,39 @@
+body{
+    background-image:url(naslovna2.jpg);
+    margin:0;
+    padding:0;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.myLogo{
+    position: absolute;
+    top:30;
+    right:0;
+}
+
+
+.meni{
+    background-color: #F05742;
+    color:white;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.meni a{
+    color:white;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.firma{
+    background-color: white;
+    height:auto;
+
+}
+
+.h1{
+    text-align: center;
+}
